@@ -1,0 +1,21 @@
+
+.contactForm {
+    display: block;
+    max-width: 300px;
+    padding: 5px;
+    border: 2px ridge #9b9b9b;
+    border-radius: 2px;
+}
+
+.submit_form{
+    margin: 10px 0;
+    border: 0.5px solid #9b9b9b;
+    border-radius: 2px;
+    background-color: #ffffff;
+    font-size: 12px;
+}   
+
+.p_label{
+    font-weight:bold;
+}
+
